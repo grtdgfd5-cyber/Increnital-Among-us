@@ -1,3 +1,53 @@
 Menu key : insert
 
 Virus Total cheack : https://www.virustotal.com/gui/file/586b589cab4e08b584d25793885aba61e9fc1788aeb6748ad20c66291d7da14a
+
+
+
+
+
+
+
+Why do some antivirus programs detect the file?
+
+Some antivirus engines may flag the file as suspicious. This happens because the cheat uses techniques that can look similar to malware behavior.
+
+For example:
+
+injecting code into the game process (DLL injection)
+
+modifying game memory
+
+using the mod loader BepInEx
+
+hooking and modifying functions
+
+These techniques are commonly used by cheats and mods, so some antivirus engines may produce false positives.
+
+Because of this, services like VirusTotal may show a few detections from heuristic or machine-learning based scanners.
+
+The cheat itself does not contain malicious code and is only used to modify the game.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Почему антивирус показывает детекты?
+
+Некоторые антивирусы могут помечать файл как подозрительный. Это происходит потому, что чит использует технологии, которые похожи на поведение вредоносных программ.
+
+Например:
+
+внедрение кода в процесс игры (DLL injection)
+
+изменение памяти игры
+
+использование мод-лоадера BepInEx
+
+хуки и модификации функций
+
+Такие методы часто используются читами и модами, поэтому некоторые антивирусы могут давать ложные срабатывания (false positives).
+
+Поэтому на сервисах вроде VirusTotal иногда можно увидеть несколько детектов от антивирусов, основанных на эвристике или машинном обучении.
+
+Чит не содержит вредоносного кода и используется только для модификации игры.
